@@ -1,0 +1,1 @@
+# cellprofiler_image-processes-for-Hog1mRuby
